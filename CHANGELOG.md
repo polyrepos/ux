@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/polyrepos/ux/compare/v1.0.0...v1.0.1) (2024-07-07)
+
+
+### Bug Fixes
+
+* update template ([2243fae](https://github.com/polyrepos/ux/commit/2243fae228c2ff58838a15a4fdcb5fcb4eefb8de))
+
 ## 1.0.0 (2024-07-07)
 
 
